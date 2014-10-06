@@ -1,0 +1,3053 @@
+[
+  {
+    "tag": "HEAD",
+    "children": [
+      {
+        "tag": "SOUR",
+        "value": "FTW",
+        "children": [
+          {
+            "tag": "VERS",
+            "value": "8.0"
+          },
+          {
+            "tag": "NAME",
+            "value": "Family Tree Maker for Windows"
+          },
+          {
+            "tag": "CORP",
+            "value": "Genealogy.com",
+            "children": [
+              {
+                "tag": "ADDR",
+                "value": "39500 Stevenson Pl.  #204",
+                "children": [
+                  {
+                    "tag": "CONT",
+                    "value": "Fremont, CA 95439"
+                  }
+                ]
+              },
+              {
+                "tag": "PHON",
+                "value": "(510) 794-6850"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "DEST",
+        "value": "FTW"
+      },
+      {
+        "tag": "DATE",
+        "value": "3 JUN 2001"
+      },
+      {
+        "tag": "CHAR",
+        "value": "ANSEL"
+      },
+      {
+        "tag": "FILE",
+        "value": "C:\\My Documents\\Family Tree\\Sample.GED"
+      },
+      {
+        "tag": "GEDC",
+        "children": [
+          {
+            "tag": "VERS",
+            "value": "5.5"
+          },
+          {
+            "tag": "FORM",
+            "value": "LINEAGE-LINKED"
+          }
+        ]
+      },
+      {
+        "tag": "_SCHEMA",
+        "children": [
+          {
+            "tag": "INDI",
+            "children": [
+              {
+                "tag": "_FA1",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Marriage fact"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA2",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 2"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA3",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 3"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA4",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 4"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA5",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 5"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA6",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 6"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA7",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 7"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA8",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 8"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA9",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 9"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA10",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 10"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA11",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 11"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA12",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 12"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA13",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 13"
+                  }
+                ]
+              },
+              {
+                "tag": "_MREL",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Relationship to Mother"
+                  }
+                ]
+              },
+              {
+                "tag": "_FREL",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Relationship to Father"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "FAM",
+            "children": [
+              {
+                "tag": "_FA1",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Marriage fact"
+                  }
+                ]
+              },
+              {
+                "tag": "_FA2",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Fact 2"
+                  }
+                ]
+              },
+              {
+                "tag": "_MSTAT",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Marriage Beginning Status"
+                  }
+                ]
+              },
+              {
+                "tag": "_MEND",
+                "children": [
+                  {
+                    "tag": "LABL",
+                    "value": "Marriage Ending Status"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "I01",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Edwin Michael /Smith/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1600"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "24 MAY 1961"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Jose, Santa Clara Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "OCCU",
+        "children": [
+          {
+            "tag": "PLAC",
+            "value": "Software Engineer"
+          }
+        ]
+      },
+      {
+        "tag": "EDUC",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "BET. 1979 - 1984"
+          },
+          {
+            "tag": "PLAC",
+            "value": "UC Berkeley"
+          }
+        ]
+      },
+      {
+        "tag": "_DEG",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "1984"
+          },
+          {
+            "tag": "PLAC",
+            "value": "B.S.E.E."
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F01"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F02"
+      }
+    ]
+  },
+  {
+    "id": "I02",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Alice Paula /Perkins/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1600",
+            "children": [
+              {
+                "tag": "PAGE",
+                "value": "1933 BIRTH: NV, Washoe Co., Sparks, Birth Certificate, Nevada State Department of Health, Vital Records, Sparks, NV, certificate #599632"
+              },
+              {
+                "tag": "DATA",
+                "children": [
+                  {
+                    "tag": "TEXT",
+                    "value": "Alice Paula Perkins born 22 Nov 1933, Sparks, Washoe Co, Nevada daughter of Paul Perkins and Stella Mason."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "SOUR",
+            "ref": "S1601"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "22 NOV 1933"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sparks, Washoe Co., NV"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "3"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F02"
+      }
+    ]
+  },
+  {
+    "id": "I03",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Martin /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "BET. 1794 - 1796"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Tommarp, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "366"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F03"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F04"
+      }
+    ]
+  },
+  {
+    "id": "I04",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Elna /Jefferson/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "14 SEP 1800"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "CHR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "16 SEP 1800"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "367"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F03"
+      }
+    ]
+  },
+  {
+    "id": "I05",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Martin /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "19 NOV 1830"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "BET. 1899 - 1905"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "BAPM",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "23 NOV 1830"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "371"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F05"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F03"
+      },
+      {
+        "tag": "NOTE",
+        "ref": "NI05"
+      }
+    ]
+  },
+  {
+    "id": "NI05",
+    "tag": "NOTE",
+    "children": [
+      {
+        "tag": "CONC"
+      },
+      {
+        "tag": "CONT",
+        "value": "BIOGRAPHY"
+      },
+      {
+        "tag": "CONT",
+        "value": "Martin was listed as being a Husman, (owning a house as opposed to a"
+      },
+      {
+        "tag": "CONT",
+        "value": "farm) in the house records of Gladsax."
+      }
+    ]
+  },
+  {
+    "id": "I06",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Kerstina /Hansdotter/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "29 NOV 1832"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Smestorp, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "BEF. 1908"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "374"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F05"
+      }
+    ]
+  },
+  {
+    "id": "I07",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Gustaf /Smith/, Sr."
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "28 NOV 1862"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Grostorp, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "BEF. 23 JUL 1930"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sparks, Washoe Co., NV"
+          }
+        ]
+      },
+      {
+        "tag": "IMMI",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "21 MAY 1908"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Copenhagen, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "CHR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "7 DEC 1862"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "377"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F06"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F05"
+      }
+    ]
+  },
+  {
+    "id": "I08",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Anna /Hansdotter/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "2 OCT 1864"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Loderup, Malmous Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "29 SEP 1945"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sparks, Washoe Co., NV"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I09",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Kirsti Marie /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "15 DEC 1886"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "18 JUL 1966"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F07"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I10",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Astrid Shermanna Augusta /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "31 JAN 1889"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "21 DEC 1963"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F08"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I11",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Hjalmar /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "31 JAN 1893"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "25 SEP 1894"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I12",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Hjalmar /Smith/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1600"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "7 APR 1895"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "26 JUN 1975"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Reno, Washoe Co., NV"
+          }
+        ]
+      },
+      {
+        "tag": "BAPM",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "3 JUN 1895"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "IMMI",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "14 NOV 1912"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Copenhagen, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "364"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F09"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      },
+      {
+        "tag": "NOTE",
+        "ref": "NI12"
+      }
+    ]
+  },
+  {
+    "id": "NI12",
+    "tag": "NOTE",
+    "children": [
+      {
+        "tag": "CONC"
+      },
+      {
+        "tag": "CONT",
+        "value": "BIOGRAPHY"
+      },
+      {
+        "tag": "CONT",
+        "value": "Hjalmar sailed from Copenhagen, Denmark on the OSCAR II, 14 November"
+      },
+      {
+        "tag": "CONT",
+        "value": "1912 arriving in New York 27 November 1912. He was seventeen years"
+      },
+      {
+        "tag": "CONT",
+        "value": "old. On the ship passenger list his trade was listed as a Blacksmith."
+      },
+      {
+        "tag": "CONT",
+        "value": "He came to Reno, Nevada and lived with his sister Marie for a time"
+      },
+      {
+        "tag": "CONT",
+        "value": "before settling in Sparks. He worked for Southern Pacific Railroad as"
+      },
+      {
+        "tag": "CONT",
+        "value": "a car inspector for a time, then went to work for Standard Oil"
+      },
+      {
+        "tag": "CONT",
+        "value": "Company. He enlisted in the army at Sparks 7 December 1917 and served"
+      },
+      {
+        "tag": "CONT",
+        "value": "as a Corporal in the Medical Corp until his discharge 12 August 1919"
+      },
+      {
+        "tag": "CONT",
+        "value": "at the Presidio in San Francisco, California. Both he and Marjorie are"
+      },
+      {
+        "tag": "CONT",
+        "value": "buried in the Masonic Memorial Gardens Mausoleum in Reno, he the 30th"
+      },
+      {
+        "tag": "CONT",
+        "value": "June 1975, and she the 25th of June 1980."
+      }
+    ]
+  },
+  {
+    "id": "I13",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Gus /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "11 SEP 1897"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "21 OCT 1963"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F10"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I14",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Carl Emil /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "20 DEC 1899"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "28 JAN 1959"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Reno, Washoe Co., NV"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I15",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Hans Peter /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "17 APR 1904"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "29 JAN 1977"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F11"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F15"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F06"
+      }
+    ]
+  },
+  {
+    "id": "I16",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Edwin /Willard/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1886"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F07"
+      }
+    ]
+  },
+  {
+    "id": "I17",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Herman Julius /Nielsen/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "31 AUG 1889"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "1945"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F08"
+      }
+    ]
+  },
+  {
+    "id": "I18",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "John Hjalmar /Smith/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1601"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "30 JAN 1932"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co, CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F02"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F09"
+      }
+    ]
+  },
+  {
+    "id": "I19",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Marjorie Lee /Smith/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1600"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "4 NOV 1934"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Reno, Washoe Co. NV"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F09"
+      }
+    ]
+  },
+  {
+    "id": "I20",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Evelyn /Michaels/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1897"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F10"
+      }
+    ]
+  },
+  {
+    "id": "I21",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Jennifer /Anderson/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "5 NOV 1907"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "29 MAY 1985"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., , CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F15"
+      }
+    ]
+  },
+  {
+    "id": "I22",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Lillie Harriet /Jones/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "2 MAY 1910"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "26 JUN 1990"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F11"
+      }
+    ]
+  },
+  {
+    "id": "I23",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Magnes /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "6 OCT 1858"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Simrishamn, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "20 FEB 1910"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F12"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F05"
+      }
+    ]
+  },
+  {
+    "id": "I24",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Emil /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "27 SEP 1860"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Simrishamn, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F05"
+      }
+    ]
+  },
+  {
+    "id": "I25",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Anna /Streiffert/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "23 SEP 1860"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Hoya/Jona/Hoia, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "2 FEB 1927"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F12"
+      }
+    ]
+  },
+  {
+    "id": "I26",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Hanna /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "29 JAN 1821"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F03"
+      }
+    ]
+  },
+  {
+    "id": "I27",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Ingar /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "AFT. 1823"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F03"
+      }
+    ]
+  },
+  {
+    "id": "I28",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Ingeman /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "29 JAN 1826"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F03"
+      }
+    ]
+  },
+  {
+    "id": "I29",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Marjorie Alice /Smith/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1600"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "5 FEB 1960"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Jose, Santa Clara Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F02"
+      }
+    ]
+  },
+  {
+    "id": "I30",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Lloyd /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "13 MAR 1935"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F13"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F11"
+      }
+    ]
+  },
+  {
+    "id": "I31",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Janis Elaine /Green/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "2 DEC 1935"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F13"
+      }
+    ]
+  },
+  {
+    "id": "I32",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Eric Lloyd /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "28 AUG 1963"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F14"
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F13"
+      }
+    ]
+  },
+  {
+    "id": "I33",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Keith Lloyd /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "11 AUG 1966"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F13"
+      }
+    ]
+  },
+  {
+    "id": "I34",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Craig Peter /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "AFT. 1966"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F13"
+      }
+    ]
+  },
+  {
+    "id": "I35",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Lars Peter /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "16 SEP 1991"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Santa Rosa, Sonoma Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F14"
+      }
+    ]
+  },
+  {
+    "id": "I36",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Darcy /Horne/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "2 JUL 1966"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sacramento, Sacramento Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F14"
+      }
+    ]
+  },
+  {
+    "id": "I37",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Ingeman /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1770"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F04"
+      }
+    ]
+  },
+  {
+    "id": "I38",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Marta /Ericsdotter/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1775"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F04"
+      }
+    ]
+  },
+  {
+    "id": "I39",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Marjorie /Ohman/",
+        "children": [
+          {
+            "tag": "SOUR",
+            "ref": "S1602"
+          },
+          {
+            "tag": "SOUR",
+            "ref": "S1600"
+          }
+        ]
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "3 JUN 1903"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Denver, Denver Co., CO"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "22 JUN 1980"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Reno, Washoe Co., NV"
+          }
+        ]
+      },
+      {
+        "tag": "REFN",
+        "value": "365"
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F09"
+      }
+    ]
+  },
+  {
+    "id": "I40",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Janice Ann /Adams/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "26 AUG 1965"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Fremont, Alameda Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "OCCU",
+        "children": [
+          {
+            "tag": "PLAC",
+            "value": "Retail Manager"
+          }
+        ]
+      },
+      {
+        "tag": "_DEG",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "1988"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Business Management"
+          }
+        ]
+      },
+      {
+        "tag": "FAMS",
+        "ref": "F01"
+      }
+    ]
+  },
+  {
+    "id": "I41",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Amber Marie /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "F"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "12 APR 1998"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Hayward, Alameda Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "CHR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "26 APR 1998"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Community Presbyterian Church, Danville, CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F01"
+      }
+    ]
+  },
+  {
+    "id": "I42",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Mason Michael /Smith/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "26 JUN 1996"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Hayward, Alameda Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "CHR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "10 JUL 1996"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Community Presbyterian Church, Danville, CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F01"
+      }
+    ]
+  },
+  {
+    "id": "I43",
+    "tag": "INDI",
+    "children": [
+      {
+        "tag": "NAME",
+        "value": "Charles /Neilsen/"
+      },
+      {
+        "tag": "SEX",
+        "value": "M"
+      },
+      {
+        "tag": "BIRT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "26 JUN 1918"
+          }
+        ]
+      },
+      {
+        "tag": "DEAT",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "17 JUL 1971"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Hayward, Alameda Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "CHR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "10 JUL 1996"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Community Presbyterian Church, Danville, CA"
+          }
+        ]
+      },
+      {
+        "tag": "FAMC",
+        "ref": "F08"
+      }
+    ]
+  },
+  {
+    "id": "F01",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I01"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I40"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I42",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Adopted"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Adopted"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I41",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "27 MAY 1995"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Ramon, Conta Costa Co., CA"
+          }
+        ]
+      },
+      {
+        "tag": "ENGA",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "5 OCT 1994"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, CA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F02",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I18"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I02"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I29",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Adopted"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Adopted"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I01",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Adopted"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Adopted"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "4 JUN 1954"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sparks, Washoe Co., NV"
+          },
+          {
+            "tag": "SOUR",
+            "value": "Hannah was the widow of James Matthewson."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F03",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I03"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I04"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I26",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I27",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I28",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I05",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1816"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Gladsax, Kristianstad Lan, Sweden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F04",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I37"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I38"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I03",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1790"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Sweden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F05",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I05"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I06"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I23",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I24",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I07",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1856"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F06",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I07"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I08"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I09",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I10",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I11",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I12",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I13",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I14",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I15",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "27 NOV 1885"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F07",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I16"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I09"
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1910"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F08",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I17"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I10"
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "30 NOV 1912"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F09",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I12"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I39"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I18",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I19",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "31 OCT 1927"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Reno, Washoe Co., NV"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F10",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I13"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I20"
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "ABT. 1920"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F11",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I15"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I22"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I30",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Adopted"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Adopted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F12",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I23"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I25"
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "24 AUG 1884"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Ronne, Bornholm, Denmark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F13",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I30"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I31"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I32",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I33",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I34",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "10 AUG 1958"
+          },
+          {
+            "tag": "PLAC",
+            "value": "San Francisco, San Francisco Co., CA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F14",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I32"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I36"
+      },
+      {
+        "tag": "CHIL",
+        "ref": "I35",
+        "children": [
+          {
+            "tag": "_FREL",
+            "value": "Natural"
+          },
+          {
+            "tag": "_MREL",
+            "value": "Natural"
+          }
+        ]
+      },
+      {
+        "tag": "MARR",
+        "children": [
+          {
+            "tag": "DATE",
+            "value": "12 JUL 1986"
+          },
+          {
+            "tag": "PLAC",
+            "value": "Woodland, Yolo Co., CA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F15",
+    "tag": "FAM",
+    "children": [
+      {
+        "tag": "HUSB",
+        "ref": "I15"
+      },
+      {
+        "tag": "WIFE",
+        "ref": "I21"
+      }
+    ]
+  },
+  {
+    "id": "S1600",
+    "tag": "SOUR",
+    "children": [
+      {
+        "tag": "TITL",
+        "value": "Birth Certificate"
+      },
+      {
+        "tag": "REPO",
+        "children": [
+          {
+            "tag": "CALN",
+            "children": [
+              {
+                "tag": "MEDI",
+                "value": "Book"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1601",
+    "tag": "SOUR",
+    "children": [
+      {
+        "tag": "TITL",
+        "value": "Birth Records"
+      },
+      {
+        "tag": "REPO",
+        "children": [
+          {
+            "tag": "CALN",
+            "children": [
+              {
+                "tag": "MEDI",
+                "value": "Book"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1602",
+    "tag": "SOUR",
+    "children": [
+      {
+        "tag": "TITL",
+        "value": "Birth, Death and Marriage Records"
+      },
+      {
+        "tag": "REPO",
+        "children": [
+          {
+            "tag": "CALN",
+            "children": [
+              {
+                "tag": "MEDI",
+                "value": "Book"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "TRLR"
+  }
+]
